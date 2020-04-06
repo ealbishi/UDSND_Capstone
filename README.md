@@ -44,5 +44,5 @@ May review the link to find the results.[Here](https://medium.com/@EssamAlbishi/
 # Licensing, Authors, and Acknowledgements:
 - This project (Capstone Project) is part of [Udacity’s Data Scientist Nanodegree program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 - [How to select the Right Evaluation Metric for Machine Learning Models: Part 1 Regression Metrics ](https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0)
-- [Guthup](https://github.com/search?p=2&q=Starbucks+Capstone&type=Repositories)
+- [Github](https://github.com/search?p=2&q=Starbucks+Capstone&type=Repositories)
 
